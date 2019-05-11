@@ -4,10 +4,10 @@ block_cipher = None
 
 
 a = Analysis(['decimator.py'],
-             pathex=['C:\\Users\\jakem\\OneDrive\\Python\\EZPZ Family\\EZPZ Decimator'],
+             pathex=['C:\\Users\\Jake\\OneDrive\\Python\\EZPZ Offshoots\\EZPZ Decimator'],
              binaries=[],
-             datas=[('C:\\Users\\jakem\\OneDrive\\Python\\EZPZ Family\\EZPZ Decimator\\Assets\\icon.ico', 'assets'),
-                    ('C:\\Users\\jakem\\OneDrive\\Python\\EZPZ Family\\EZPZ Decimator\\Assets\\logo.png', 'assets')],
+             datas=[('C:\\Users\\Jake\\OneDrive\\Python\\EZPZ Offshoots\\EZPZ Decimator\\Assets\\icon.ico', 'assets'),
+                    ('C:\\Users\\Jake\\OneDrive\\Python\\EZPZ Offshoots\\EZPZ Decimator\\Assets\\logo.png', 'assets')],
              hiddenimports=[],
              hookspath=[],
              runtime_hooks=[],
@@ -28,4 +28,4 @@ exe = EXE(pyz,
           strip=False,
           upx=True,
           runtime_tmpdir=None,
-          console=False , icon='C:\\Users\\jakem\\OneDrive\\Python\\EZPZ Family\\EZPZ Decimator\\Assets\\icon.ico')
+          console=False , icon='C:\\Users\\Jake\\OneDrive\\Python\\EZPZ Offshoots\\EZPZ Decimator\\Assets\\icon.ico')

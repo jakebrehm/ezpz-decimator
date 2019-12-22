@@ -1,8 +1,10 @@
-# EZPZ Decimator
-
-**EZPZ Decimator** is a simple program in the EZPZ family of programs that concatenates and then decimates one or more csv files. The files are specified by the user, as well as the number of header rows and the decimation factor.
+<p align="center">
+  <img src="https://github.com/jakebrehm/ezpz-decimator/blob/master/Assets/logo.png" width="558" height="126" alt="EZPZ Plotting Logo"/>
+</p>
 
 ---
+
+**EZPZ Decimator** is a simple program in the EZPZ family of programs that concatenates and then decimates one or more csv files. The files are specified by the user, as well as the number of header rows and the decimation factor.
 
 # How to get it
 
@@ -25,7 +27,7 @@ Similarly, click the `Browse...` button of the `Output destination` field to cho
 
 Next, specify how many header rows are in your data. Note that each of your data files must be formatted the same way, meaning that **each file must have the same number of header rows.**
 
-Specify the decimation factor in the `Decimation factor` field. Another way to think of this is *I want to keep 1 out of every _ rows of data*, where the *_* is your decimation factor.
+Specify the decimation factor in the `Decimation factor` field. Another way to think of this is "*I want to keep 1 out of every _ rows of data*", where the *_* is your decimation factor.
 
 You can also choose whether or not to include the header information in the output file by toggling the `Include headers` checkbutton appropriately.
 

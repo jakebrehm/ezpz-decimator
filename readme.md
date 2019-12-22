@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://github.com/jakebrehm/ezpz-decimator/blob/master/Assets/logo.png" width="490" height="101" alt="EZPZ Plotting Logo"/>
+  <img src="https://github.com/jakebrehm/ezpz-reducer/blob/master/Assets/logo.png" width="490" height="101" alt="EZPZ Plotting Logo"/>
 </p>
 
 ---
 
-**EZPZ Decimator** is a simple tool in the EZPZ family of programs that concatenates and then decimates one or more csv files. The files are specified by the user, as well as the number of header rows and the decimation factor.
+**EZPZ Reducer** is a simple tool in the EZPZ family of programs that concatenates and then decimates one or more csv files. The files are specified by the user, as well as the number of header rows and the decimation factor.
 
 # How to get it
 
 To get a copy of this script, use the following command:
 ```
-git clone https://github.com/jakebrehm/ezpz-decimator.git
+git clone https://github.com/jakebrehm/ezpz-reducer.git
 ```
 
 # How to use it
 
-In order to launch the program, open *EZPZ Decimator.exe* or run the source code via the command:
+In order to launch the program, open *EZPZ Reducer.exe* or run the source code via the command:
 
 ```
-python decimator.py
+python main.py
 ```
 
 First, you must specify that files that you want to concatenate and/or decimate. To do this, click the `Browse...` button of the `Input location` field and select one or more files.

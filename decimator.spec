@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['decimator.py'],
+a = Analysis(['main.py'],
              pathex=[r'C:\Users\Jake\OneDrive\Python\EZPZ Family\EZPZ Decimator'],
              binaries=[],
              datas=[(r'C:\Users\Jake\OneDrive\Python\EZPZ Family\EZPZ Decimator\Assets\icon.ico', 'assets'),

@@ -4,10 +4,10 @@ block_cipher = None
 
 
 a = Analysis(['decimator.py'],
-             pathex=['C:\\Users\\Jake\\OneDrive\\Python\\EZPZ Offshoots\\EZPZ Decimator'],
+             pathex=[r'C:\Users\Jake\OneDrive\Python\EZPZ Family\EZPZ Decimator'],
              binaries=[],
-             datas=[('C:\\Users\\Jake\\OneDrive\\Python\\EZPZ Offshoots\\EZPZ Decimator\\Assets\\icon.ico', 'assets'),
-                    ('C:\\Users\\Jake\\OneDrive\\Python\\EZPZ Offshoots\\EZPZ Decimator\\Assets\\logo.png', 'assets')],
+             datas=[(r'C:\Users\Jake\OneDrive\Python\EZPZ Family\EZPZ Decimator\Assets\icon.ico', 'assets'),
+                    (r'C:\Users\Jake\OneDrive\Python\EZPZ Family\EZPZ Decimator\Assets\logo.png', 'assets')],
              hiddenimports=[],
              hookspath=[],
              runtime_hooks=[],
@@ -23,9 +23,10 @@ exe = EXE(pyz,
           a.binaries,
           a.zipfiles,
           a.datas,
-          name='EZPZ Decimator',
+          name='EZPZ Reducer',
           debug=False,
           strip=False,
           upx=True,
           runtime_tmpdir=None,
-          console=False , icon='C:\\Users\\Jake\\OneDrive\\Python\\EZPZ Offshoots\\EZPZ Decimator\\Assets\\icon.ico')
+          console=False,
+          icon=r'C:\Users\Jake\OneDrive\Python\EZPZ Family\EZPZ Decimator\Assets\icon.ico')

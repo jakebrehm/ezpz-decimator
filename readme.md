@@ -4,7 +4,7 @@
 
 ---
 
-**EZPZ Decimator** is a simple program in the EZPZ family of programs that concatenates and then decimates one or more csv files. The files are specified by the user, as well as the number of header rows and the decimation factor.
+**EZPZ Decimator** is a simple tool in the EZPZ family of programs that concatenates and then decimates one or more csv files. The files are specified by the user, as well as the number of header rows and the decimation factor.
 
 # How to get it
 
@@ -36,6 +36,7 @@ When you're ready, press the `Reduce` button. Navigate to the specified output d
 # Ideas for future changes
 - Change the name to EZPZ Reducer
 - Allow the user to reorder the inputs
+- Make the program work with delimiters other than a comma
 - Add the ability to specify files multiple times in order to allow for the input files to be in different locations
 - Show all of the inputs in a listbox instead of a basic entry field
 

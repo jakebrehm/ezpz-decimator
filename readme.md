@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/jakebrehm/ezpz-decimator/blob/master/Assets/logo.png" width="558" height="126" alt="EZPZ Plotting Logo"/>
+  <img src="https://github.com/jakebrehm/ezpz-decimator/blob/master/Assets/logo.png" width="490" height="101" alt="EZPZ Plotting Logo"/>
 </p>
-
+2448x505
 ---
 
 **EZPZ Decimator** is a simple program in the EZPZ family of programs that concatenates and then decimates one or more csv files. The files are specified by the user, as well as the number of header rows and the decimation factor.

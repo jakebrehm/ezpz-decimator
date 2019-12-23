@@ -34,7 +34,6 @@ You can also choose whether or not to include the header information in the outp
 When you're ready, press the `Reduce` button. Navigate to the specified output destination to find the resulting file.
 
 # Ideas for future changes
-- Change the name to EZPZ Reducer
 - Allow the user to reorder the inputs
 - Make the program work with delimiters other than a comma
 - Add the ability to specify files multiple times in order to allow for the input files to be in different locations

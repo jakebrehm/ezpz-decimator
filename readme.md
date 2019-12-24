@@ -38,6 +38,7 @@ When you're ready, press the `Reduce` button. Navigate to the specified output d
 - Make the program work with delimiters other than a comma
 - Add the ability to specify files multiple times in order to allow for the input files to be in different locations
 - Show all of the inputs in a listbox instead of a basic entry field
+- Add validation to the entry boxes to only allow integer values (or use a spinbox)
 
 ---
 

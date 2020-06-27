@@ -1,19 +1,35 @@
-<p align="center">
-  <img src="https://github.com/jakebrehm/ezpz-reducer/blob/master/Assets/logo.png" width="430" height="101" alt="EZPZ Plotting Logo"/>
-</p>
+<div align="center">
 
----
+  <img src="https://github.com/jakebrehm/ezpz-reducer/blob/master/Assets/logo.png" alt="EZPZ Plotting Logo"/>
+
+  <br>
+  <br>
+
+  <h1>Concatenates and then decimates one or more csv files.</h1>
+
+  <br>
+
+  <img src="https://img.shields.io/github/last-commit/jakebrehm/ezpz-reducer?style=for-the-badge&color=violet" alt="Last Commit"></img>
+  <img src="https://img.shields.io/github/commit-activity/w/jakebrehm/ezpz-reducer?style=for-the-badge&color=violet" alt="Commit Activity"></img>
+  <img src="https://img.shields.io/github/license/jakebrehm/ezpz-reducer?style=for-the-badge&color=violet" alt="MIT License"></img>
+  <br>
+  <img src="https://img.shields.io/badge/Made%20With-Python%203.7-violet.svg?style=for-the-badge&logo=Python" alt="Made with Python 3.7"></img>
+
+</div>
+
+
+## What is it?
 
 **EZPZ Reducer** is a simple tool in the EZPZ family of programs that concatenates and then decimates one or more csv files. The files are specified by the user, as well as the number of header rows and the decimation factor.
 
-# How to get it
+## How do I get it?
 
 To get a copy of this script, use the following command:
 ```
 git clone https://github.com/jakebrehm/ezpz-reducer.git
 ```
 
-# How to use it
+## How do I use it?
 
 In order to launch the program, open *EZPZ Reducer.exe* or run the source code via the command:
 
@@ -33,7 +49,7 @@ You can also choose whether or not to include the header information in the outp
 
 When you're ready, press the `Reduce` button. Navigate to the specified output destination to find the resulting file.
 
-# Ideas for future changes
+## Ideas for future changes
 - Allow the user to reorder the inputs
 - Make the program work with delimiters other than a comma
 - Add the ability to specify files multiple times in order to allow for the input files to be in different locations
@@ -42,5 +58,5 @@ When you're ready, press the `Reduce` button. Navigate to the specified output d
 
 ---
 
-# Authors
+## Authors
 - **Jake Brehm** - *Initial Work* - [Email](mailto:jbrehm@tactair.com) | [Github](http://github.com/jakebrehm) | [LinkedIn](http://linkedin.com/in/jacobbrehm)

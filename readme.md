@@ -24,7 +24,9 @@
 
 ## How do I get it?
 
-To get a copy of this script, use the following command:
+It is most convenient to download the latest executable file release, which can be found [here](https://github.com/jakebrehm/ezpz-reducer/releases/latest).
+
+Otherwise, if you want to run the program via the source code, use the following command:
 ```
 git clone https://github.com/jakebrehm/ezpz-reducer.git
 ```
